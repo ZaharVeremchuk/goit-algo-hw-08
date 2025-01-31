@@ -13,7 +13,7 @@ def min_cost_to_connect_cables(cables):
 
     return total_cost
 
-# Приклад використання
+# Дано
 cables = [5, 2, 10, 3, 7, 1]
 min_cost = min_cost_to_connect_cables(cables)
 print("Мінімальні витрати:", min_cost)  # Виведе: Мінімальні витрати: 65
